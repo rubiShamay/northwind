@@ -1,0 +1,7 @@
+.DivError > img {
+    width: 90%;
+    border-radius: 10px;
+}
+.DivError > h2 {
+    font-size: 40px;
+}

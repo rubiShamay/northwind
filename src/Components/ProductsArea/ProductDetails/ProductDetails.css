@@ -1,0 +1,18 @@
+.ProductDetails{
+    
+}
+img {
+    width: 50%;
+}
+.divBtn > button{
+    border-radius: 10px;
+    border: 0px;
+    height: 40px;
+    width: 100px;
+    background-color: darkgrey;
+}
+.divBtn {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3%;
+}

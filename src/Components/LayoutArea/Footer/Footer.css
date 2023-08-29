@@ -1,0 +1,7 @@
+.Footer {
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

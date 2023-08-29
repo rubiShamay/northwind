@@ -1,0 +1,11 @@
+.EmployeeDetails {}
+
+.detailsEmployeeTitles {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.detailsEmployeeImage{
+    width: 27%;
+}
