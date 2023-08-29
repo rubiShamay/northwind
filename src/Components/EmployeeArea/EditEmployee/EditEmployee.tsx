@@ -37,7 +37,6 @@ function EditEmployee(): JSX.Element {
             .catch(err => notificationService.error(err))
     }, [])
 
-
     async function updateEmployee(employee: EmployeesModal) {
         try {
             employee.id = id
